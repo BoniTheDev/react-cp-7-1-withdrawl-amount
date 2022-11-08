@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.button {
+  background-color: #382f5a;
+  height: 35px;
+  width: 75px;
+  color: #c4c4c4;
+  border-radius: 8px;
+  outline: none;
+  font-size: 20px;
+  cursor: pointer;
+  border: 0px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
